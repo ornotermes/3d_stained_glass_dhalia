@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 Rikard Lindström <ornotermes@gmail.com> */
+/* Copyright (C) 2023 Rikard Lindström <ornotermes@gmail.com> */
 /*
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
